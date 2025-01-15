@@ -2,3 +2,4 @@
 Project for INFO340:
 
 George Lee
+Justin Dang
